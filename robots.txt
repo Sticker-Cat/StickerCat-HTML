@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+User-agent: Google-adstxt
+Disallow:
+
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+Disallow:
+
+Sitemap: https://stickercat.app/sitemap.xml
