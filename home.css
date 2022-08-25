@@ -504,6 +504,9 @@
   .home-bot {
     width: 100%;
   }
+  .home-text07 {
+    margin: var(--dl-space-space-doubleunit);
+  }
   .home-container07 {
     flex-direction: column;
   }
